@@ -23,4 +23,3 @@ var romanToInt = function(s) {
     
     return r;
 };
-
